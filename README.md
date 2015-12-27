@@ -12,7 +12,7 @@ This script is designed to run with iMacros under Firefox. To get it start worki
 4.  Fill in the course number you want to get and click `Inquire`
 5.  Fill in the same course number into `Inquire course number` and `Course number` in the left panel
 
-Now, start running `GetCourse.js` in iMacros, and __DON‘T__ leave this page.
+Now, start running `GetCourse.js` in iMacros, and __DON‘T__ leave that page.
 
 When the available course is released, you should see a `Course Added` if it got the course. Otherwise you will see some other message.
 
